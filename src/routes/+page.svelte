@@ -179,4 +179,7 @@
 	input:focus {
 		outline: none;
 	}
+	body {
+		background-color: black;
+	}
 </style>
